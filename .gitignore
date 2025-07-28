@@ -5,6 +5,7 @@ target/
 
 .env
 TestNG.xml
+dependency-reduced-pom.xml
 
 ### IntelliJ IDEA ###
 .idea
