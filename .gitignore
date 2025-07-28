@@ -6,6 +6,8 @@ target/
 .env
 TestNG.xml
 dependency-reduced-pom.xml
+allure-results
+.allure
 
 ### IntelliJ IDEA ###
 .idea
