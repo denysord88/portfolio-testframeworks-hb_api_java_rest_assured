@@ -3,6 +3,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+.env
+TestNG.xml
+
 ### IntelliJ IDEA ###
 .idea
 .idea/modules.xml
